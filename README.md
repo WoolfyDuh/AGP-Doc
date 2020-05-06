@@ -1,6 +1,6 @@
 ## [titel van jullie game]
 Project team:
-> Jelco Elich, Jori Kos, Melissa Mondeel, Tasso Mevissen, Waine Van Der Biezen, Wiebe Klazes, Yulan Wintgen
+> Jelco Elich, [Jori] Kos, Melissa Mondeel, [Tasso] Mevissen, [Waine] Van Der Biezen, Wiebe Klazes, Yulan Wintgen
 
 Platform:
 [jullie platfom]
@@ -45,4 +45,6 @@ Platform:
    [Prototype]: <https://www.mijnmytheprototype.nl>
    [Folder op teams]: <https://www.linknaarmijnfolderopteams.nl>
    [AssetPlanning]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/AssetPlanning.pdf>
-   
+   [Jori]: <https://github.com/JoriKos>
+   [Tasso]: <https://github.com/tasso-tech>
+   [Waine]: <https://github.com/WoolfyDuh>
