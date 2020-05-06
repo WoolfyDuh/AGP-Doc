@@ -1,5 +1,6 @@
 ## [titel van jullie game]
-Project team:[jullie namen]
+Project team:
+> Jelco Elich, Jori Kos, Melissa Mondeel, Tasso Mevissen, Waine Van Der Biezen, Wiebe Klazes, Yulan Wintgen
 
 Platform:
 [jullie platfom]
