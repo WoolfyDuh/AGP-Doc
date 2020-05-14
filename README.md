@@ -3,7 +3,7 @@ Project team:
 > Jelco Elich, [Jori] Kos, Melissa Mondeel, [Tasso] Mevissen, [Waine] Van Der Biezen, Wiebe Klazes, Yulan Wintgen
 
 Platform:
-[jullie platfom]
+Unity
 
 ### Korte omschrijving van de game
 ...
@@ -37,8 +37,8 @@ Platform:
 | Asset planning (pdf)                  | [AssetPlanning]
 |<img width=500/>|<img width=300/>|
 
-   [Backlog]: <https://trello.com/b/hik72z4q/mythe-2019-voorbeeld-trello>
-   [Logboek]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/logboek.pdf>
+   [Backlog]: <https://trello.com/b/Xlu82FjK/werkprocess-1>
+   [Logboek]: <https://github.com/WoolfyDuh/AGP-Doc/blob/master/producten/logboek_mythe_sprint_1.pdf>
    [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
