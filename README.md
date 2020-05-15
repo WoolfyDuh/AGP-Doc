@@ -1,4 +1,4 @@
-## [titel van jullie game]
+## Maankonijn+
 Project team:
 > Jelco Elich, [Jori] Kos, Melissa Mondeel, [Tasso] Mevissen, [Waine] Van Der Biezen, Wiebe Klazes, Yulan Wintgen
 
@@ -6,7 +6,7 @@ Platform:
 Unity
 
 ### Korte omschrijving van de game
-...
+Animal Crossing maar je bent het maankonijn op het maan
 
 ---
 #### Producten Werkproces 1
@@ -39,7 +39,7 @@ Unity
 
    [Backlog]: <https://trello.com/b/Xlu82FjK/werkprocess-1>
    [Logboek]: <https://github.com/WoolfyDuh/AGP-Doc/blob/master/producten/logboek_mythe_sprint_1.pdf>
-   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/GameDesignDoc.pdf>
+   [GameDesignDoc]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/MytheGroup4GDD.pdf>
    [RetrospectiveVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/RetrospectiveVerslagen.pdf>
    [ReviewVerslagen]: <https://github.com/BerendWeij/agp_inlever_template/blob/master/producten/ReviewVerslagen.pdf>
    [Prototype]: <https://www.mijnmytheprototype.nl>
